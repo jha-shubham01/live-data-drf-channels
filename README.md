@@ -34,3 +34,4 @@ Redis-Server: https://pypi.org/project/redis-server/
 
 ## Video Example
 Part 1: https://youtu.be/GBjuMxg_2jU
+Part 2: https://youtu.be/yOfBcXbxUyE
