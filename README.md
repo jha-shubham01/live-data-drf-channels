@@ -32,6 +32,6 @@ Redis-Server: https://pypi.org/project/redis-server/
 8. Run the backend server (python manage.py runserver)
 9. Visit the server link (http://localhost:8000/)
 
-## Video Example
+## Video Demo
 Part 1: https://youtu.be/GBjuMxg_2jU <br />
 Part 2: https://youtu.be/yOfBcXbxUyE
